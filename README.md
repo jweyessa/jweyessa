@@ -2,7 +2,6 @@
 - 👀 I’m interested in java and html
 - 🌱 I’m currently learning to code in those languages
 - 💞️ I’m looking to collaborate on fun projects to continue developing and sharpening my skills
-- 📫 How to reach me - weyessa@ualberta.ca
 
 <!---
 jweyessa/jweyessa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
